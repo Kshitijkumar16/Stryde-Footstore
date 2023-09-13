@@ -27,7 +27,7 @@ export default {
         "pastel-mint": "#A0E7E5",
         "lavender-blush": "#F3D8E2",
         "powder-blue": "#B5C7D3",
-        "tint-peach": "#fefdfb",
+        "tint-peach": "#fff7f7",
       },
       boxShadow: {
         "3xl": "0 10px 40px rgba(0, 0, 0, 0.1)",

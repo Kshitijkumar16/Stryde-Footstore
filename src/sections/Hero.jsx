@@ -24,7 +24,8 @@ const Hero = () => {
           </span>
           <br />
           <span className="text-coral-red inline-block mt-3 ">Stryde</span>
-          <span className=" xl:bg-tint-peach xl:whitespace-nowrap pr-10"> Shoes</span>
+          <span className=" xl:bg-tint-peach xl:whitespace-nowrap pr-10"> Shoes
+          </span>
         </h1>
         <p className="font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm">
           Discover stylish new arrivals, quality comfort, and innovation for

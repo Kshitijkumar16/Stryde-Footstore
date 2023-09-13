@@ -30,7 +30,7 @@ const nav = () => (
             <div key={item.label}>
               <a
                 href={item.href}
-                className="font-montserrat font-medium leading-normal text-lg text-slate-gray p-3 rounded-xl hover:text-coral-red duration-400"
+                className="font-montserrat font-medium leading-normal text-lg text-black p-3 rounded-xl hover:text-coral-red duration-400"
               >
                 {item.label}
               </a>
