@@ -13,7 +13,7 @@ const Subscribe = () => {
       <div className="w-full flex items-center max-sm:flex-col gap-5 p-2.5 sm:border sm:border-slate-gray rounded-full lg:max-w-[40%]">
         <input
           type="text"
-          className="input"
+          className="input placeholder:bg-tint-peach"
           placeholder="subscribe@stryde.com"
         />
         <div className="flex max-sm:justify-end items-center max-sm:w-full ">
