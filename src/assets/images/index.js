@@ -1,6 +1,7 @@
 import bigShoe1 from './big-shoe1.png'
 import bigShoe2 from './big-shoe2.png'
 import bigShoe3 from './big-shoe3.png'
+import bigShoe4 from './big-shoe4.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -21,10 +22,18 @@ import thumbnailShoe1 from './thumbnail-shoe1.svg'
 import thumbnailShoe2 from './thumbnail-shoe2.svg'
 import thumbnailShoe3 from './thumbnail-shoe3.svg'
 
+import gray1 from './gray1.png'
+import gray2 from './gray2.png'
+import gray3 from './gray3.png'
+import gray4 from './gray4.png'
+import gray5 from './gray5.png'
+import gray6 from './gray6.png'
+
 export {
     bigShoe1,
     bigShoe2,
     bigShoe3,
+    bigShoe4,
 
     customer1,
     customer2,
@@ -42,5 +51,12 @@ export {
     thumbnailBackground,
     thumbnailShoe1,
     thumbnailShoe2,
-    thumbnailShoe3
+    thumbnailShoe3,
+
+    gray1,
+    gray2,
+    gray3,
+    gray4,
+    gray5,
+    gray6,
 }

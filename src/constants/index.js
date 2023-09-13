@@ -10,6 +10,7 @@ import {
   bigShoe1,
   bigShoe2,
   bigShoe3,
+  bigShoe4,
   customer1,
   customer2,
   shoe4,
@@ -19,6 +20,12 @@ import {
   thumbnailShoe1,
   thumbnailShoe2,
   thumbnailShoe3,
+  gray1,
+  gray2,
+  gray3,
+  gray4,
+  gray5,
+  gray6,
 } from "../assets/images";
 
 export const navLinks = [
@@ -30,16 +37,16 @@ export const navLinks = [
 
 export const shoes = [
   {
-    thumbnail: thumbnailShoe1,
-    bigShoe: bigShoe1,
-  },
-  {
     thumbnail: thumbnailShoe2,
     bigShoe: bigShoe2,
   },
   {
     thumbnail: thumbnailShoe3,
     bigShoe: bigShoe3,
+  },
+  {
+    thumbnail: thumbnailShoe1,
+    bigShoe: bigShoe1,
   },
 ];
 
@@ -94,7 +101,7 @@ export const services = [
 export const reviews = [
   {
     imgURL: customer1,
-    customerName: "Morich Brown",
+    customerName: "Keeshow Kuma",
     rating: 4.5,
     feedback:
       "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
