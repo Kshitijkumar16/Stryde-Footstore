@@ -3,7 +3,7 @@ import Nav from "./components/Nav";
 import { CustomerReviews, Footer, Hero, PopularProducts, Services, Subscribe, SpecialOffer, SuperQuality } from "./sections";
 
 const App = () => (
-  <main className="relative bg-[#fff7f7]">
+  <main className="relative bg-[#fff7f7] max-w-[2000px]">
     <Nav />
     <section className="xl:padding-l wide:padding-r padding-b">
       <Hero />

@@ -25,7 +25,7 @@ const nav = () => (
         </p>
       </div>
       <div id="navbar" className="max-lg:hidden ">
-        <div className="py-3 px-4 rounded-xl font-bold flex-1 flex justify-center items-center gap-10 duration-400 hover:shadow-xl hover:shadow-coral-red hover:text-coral-red hover:border-[1px] hover:border-coral-red duration-500">
+        <div className="py-3 px-4 rounded-md font-bold flex-1 flex justify-center items-center gap-10 duration-400 hover:shadow-xl hover:shadow-coral-red hover:text-coral-red hover:border-[1px] hover:border-coral-red duration-500">
           {navLinks.map((item) => (
             <div key={item.label}>
               <a

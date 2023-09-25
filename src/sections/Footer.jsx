@@ -72,7 +72,7 @@ const Footer = () => {
             Copyright. All rights reserved.
           </p>
         </div>
-        <p className="text-white-400 font-montserrat">Terms & Conditions</p>
+        <a href="/" className="text-white-400 font-montserrat">Terms & Conditions</a>
       </div>
     </footer>
   );
